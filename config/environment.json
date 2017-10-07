@@ -1,0 +1,17 @@
+{
+  "dev": {
+    "areaCodeFilePath": "/data/input/area_codes.txt",
+    "outputDirPath": "/data/output/",
+    "outputFileName": "qtd_por_area.dev.txt"
+  },
+  "test": {
+    "areaCodeFilePath": "/data/input/area_codes.txt",
+    "outputDirPath": "/data/output/",
+    "outputFileName": "qtd_por_area.test.txt"
+  },
+  "prod": {
+    "areaCodeFilePath": "/data/input/area_codes.txt",
+    "outputDirPath": "/data/output/",
+    "outputFileName": "qtd_por_area.txt"
+  }
+}
