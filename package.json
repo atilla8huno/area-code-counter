@@ -1,7 +1,7 @@
 {
   "name": "area-codes",
   "version": "1.0.0",
-  "description": "Talkdesk challenge",
+  "description": "Area Code Smart Counter",
   "main": "app.js",
   "scripts": {
     "start": "node app.js /data/input/numbers.test.txt",
