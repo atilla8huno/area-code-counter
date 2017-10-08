@@ -1,11 +1,3 @@
-# pnc v0.1
-
-This exercise is part of Talkdesk's recruitment process. Please do not share it publicly.
-
-It is up to you how much effort you put into it and exactly what you deliver; we would expect you to spend one or two hours on it, and that you deliver at least a piece of working code that we'll be able to run on our machines* and that will solve the problem at hand.
-
-It is also up to you whether there's any need for documentation (or anything else), depending on the problem you've been assigned or the method you chose to solve it.
-
 ## Exercise
 
 Given a file with valid area codes** and a second file with potential phone numbers, print the count of valid phone numbers by valid area code. Only the lines (of the second file) that include a valid phone number (and nothing more) according to the following rules should be accounted for:
