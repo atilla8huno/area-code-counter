@@ -32,7 +32,7 @@ It is necessary to install all the dependencies before running the program.
  
    ` $ node app.js your_file.txt`
  
- - the results should be generated on the folder /data/output/ (relative to the project root)
+ - the results should be generated on the folder `/data/output/` (relative to the project root)
  
 ## Notes
 
